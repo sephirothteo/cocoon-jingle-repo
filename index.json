@@ -3,13 +3,14 @@
 
   "gba": [
     {
-      "name": "GBA Default",
-      "file": "jingles/gba/gba_default.mp3"
-    },
-    {
       "name": "Pokemon FireRed / LeafGreen",
       "file": "jingles/gba/pokemon_firered.mp3",
-      "regex": "pokemon.*(fire.?red|leaf.?green)"
+      "regex": "pok[eé]mon.*(fire.?red|leaf.?green)"
+    },
+    {
+      "name": "Pokemon Emerald",
+      "file": "jingles/gba/pokemon_emerald.mp3",
+      "regex": "pok[eé]mon.*emerald"
     }
   ]
 }
