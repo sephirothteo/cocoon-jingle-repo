@@ -1,13 +1,15 @@
 {
-  "name": "Example Jingle Pack",
-  "entries": [
+  "name": "Teodoro Ultimate Pack",
+
+  "gba": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "name": "GBA Default",
+      "file": "jingles/gba/gba_default.mp3"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
+      "name": "Pokemon FireRed / LeafGreen",
+      "file": "jingles/gba/pokemon_firered.mp3",
+      "regex": "pokemon.*(fire.?red|leaf.?green)"
     }
   ]
 }
