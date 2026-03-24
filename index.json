@@ -2,6 +2,22 @@
   "name": "Teodoro Ultimate Pack",
 
   "gba": [
+     {
+      "name": "The Legend of Zelda: The Minish Cap",
+      "file": "jingles/gba/zelda_minish_cap.mp3",
+      "regex": "zelda.*minish.*cap"
+    },
+    {
+      "name": "Metroid Zero Mission",
+      "file": "jingles/gba/metroid_zero_mission.mp3",
+      "regex": "metroid.*zero.*mission"
+    },
+    {
+      "name": "Castlevania Circle of the Moon",
+      "file": "jingles/gba/castlevania_circle.mp3",
+      "regex": "castlevania.*circle.*moon"
+    },
+
     {
       "name": "Pokemon FireRed / LeafGreen",
       "file": "jingles/gba/pokemon_firered.mp3",
