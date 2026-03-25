@@ -17,16 +17,30 @@
       "file": "jingles/gba/castlevania_circle.mp3",
       "regex": "castlevania.*circle.*moon"
     },
-
     {
-      "name": "Pokemon FireRed / LeafGreen",
-      "file": "jingles/gba/pokemon_firered.mp3",
-      "regex": "pok[eé]mon.*(fire.?red|leaf.?green)"
-    },
-    {
-      "name": "Pokemon Emerald",
-      "file": "jingles/gba/pokemon_emerald.mp3",
-      "regex": "pok[eé]mon.*emerald"
-    }
+	  "name": "Pokemon FireRed / LeafGreen",
+	  "file": "jingles/gba/pokemon_firered.mp3",
+	  "regex": "pok[eé]mon.*(fire.?red|leaf.?green)"
+	},
+	{
+	  "name": "Pokemon Emerald",
+	  "file": "jingles/gba/pokemon_emerald.mp3",
+	  "regex": "pok[eé]mon.*emerald"
+	},
+	{
+	  "name": "Pokemon Ruby / Sapphire",
+	  "file": "jingles/gba/pokemon_ruby_sapphire.mp3",
+	  "regex": "pok[eé]mon.*(ruby|sapphire)"
+	},
+	{
+	  "name": "Pokemon Mystery Dungeon Red Rescue Team",
+	  "file": "jingles/gba/pokemon_mystery_dungeon.mp3",
+	  "regex": "pok[eé]mon.*mystery.*dungeon.*red.*rescue"
+	},
+	{
+	  "name": "Pokemon Pinball Ruby & Sapphire",
+	  "file": "jingles/gba/pokemon_pinball.mp3",
+	  "regex": "pok[eé]mon.*pinball.*ruby.*sapphire"
+	}
   ]
 }
