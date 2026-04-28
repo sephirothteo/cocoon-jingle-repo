@@ -42,5 +42,12 @@
 	  "file": "jingles/gba/pokemon_pinball.mp3",
 	  "regex": "pok[eé]mon.*pinball.*ruby.*sapphire"
 	}
+  ],
+  "nds": [
+    {
+      "name": "Metroid Prime - Hunters",
+      "file": "jingles/nds/metroid_prime_hunters.mp3",
+      "regex": "metroid.*prime.*hunters"
+    }
   ]
 }
